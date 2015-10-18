@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/isakib/cucumber-poltergeist-demo.svg?branch=master)](https://travis-ci.org/isakib/cucumber-poltergeist-demo)
+
+
 #Poltergeist 
 
 Poltergeist is a headess capybara driver based on PhantomJS. This project is a demonstration of Poltergiest driver in your project. 
