@@ -81,7 +81,8 @@ Take a look at features/Support/env.rb file how options are configured. you can 
 
 Notes
 =====
-Project credit goes to https://github.com/Shashikant86/Poltergeist-Demo
+Project credit goes to https://github.com/Shashikant86/Poltergeist-Demo and for more details check his blog post http://shashikantjagtap.net/cucumber-capybara-and-poltergeist-as-developer-tools-network-traffic-capture/
+
 
 
 
