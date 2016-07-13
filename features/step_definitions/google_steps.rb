@@ -1,5 +1,5 @@
 Given(/^I am on the home page$/) do
-puts  visit "http://www.google.com"
+puts  visit "http://www.google.com/ncr"
 end
 
 When /^I fill in "([^"]*)" with "([^"]*)"$/ do |element, text|

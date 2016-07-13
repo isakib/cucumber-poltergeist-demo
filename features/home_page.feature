@@ -1,4 +1,3 @@
-
 Feature: Google Search to explore poltergiest
   In order to expolre poltergeist functionality
   As a capybara and poltergeist user
@@ -7,7 +6,7 @@ Feature: Google Search to explore poltergiest
 
 Scenario: View home page
   Given I am on the home page
-  When I fill in "q" with "shashi"
+  When I fill in "q" with "apple"
   Then I should see "Sign in"
  
  		
