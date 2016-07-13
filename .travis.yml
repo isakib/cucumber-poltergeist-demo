@@ -4,6 +4,11 @@ cache: bundler
 rvm:
   - 1.9.3
 
+before_script:
+    - "export DISPLAY=:99.0"
+    - "sh -e /etc/init.d/xvfb start"
+    - sleep 3 # give xvfb some time to start
+
 before_script: 'bundle install'
 script: 'bundle exec cucumber'
 
@@ -13,4 +18,4 @@ branches:
 
 notifications:
   email:
-    - shashikant.jagtap@aol.co.uk
+    - isakib@gmail.com
